@@ -1,6 +1,6 @@
 # Mono repo scaffolding
 
-Problem definition: How to setup a mono repo of multiple binary and library projects.
+Problem definition: How to setup a mono repo of multiple binary and library projects, organized into parent folders.
 
 ## Steps
 
