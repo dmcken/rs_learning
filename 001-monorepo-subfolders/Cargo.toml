@@ -1,0 +1,9 @@
+[workspace]
+resolver = "3"
+members = [
+    "services/server",
+    "services/client",
+]
+
+[workspace.dependencies]
+utils = { path = "libs/utils" }
